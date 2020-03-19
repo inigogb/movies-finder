@@ -1,3 +1,8 @@
+# About
+
+This is a demo Movie finder web application.
+If you'd like to check the live demo [click here](https://inigo-garcia-b-movie-finder.netlify.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
